@@ -1,0 +1,11 @@
+main.c:338:6:SystemClock_Config	160	static
+main.c:805:6:HAL_UART_RxCpltCallback	16	static
+main.c:848:6:turn_left	48	static
+main.c:818:6:turn_right	0	static
+main.c:879:6:backward	48	static
+main.c:910:6:stop	48	static
+main.c:941:6:forward	48	static
+main.c:973:6:initwifi	112	static
+main.c:117:5:main	152	static
+main.c:998:6:HAL_TIM_IC_CaptureCallback	16	static
+main.c:1048:6:_Error_Handler	0	static
